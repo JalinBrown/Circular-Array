@@ -1,4 +1,4 @@
-# Deque (Circular Array) Implementation
+# Deque (Circular Array) C++ Class
 
 Author: Jalin A. Brown
 
